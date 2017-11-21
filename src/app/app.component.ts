@@ -23,6 +23,6 @@ export class AppComponent {
   }
 
   checkWin() {
-
+    console.log();
   }
 }
